@@ -5,7 +5,7 @@
 ## ¿Qué es una variable?
 
 Una variable es como una caja con nombre donde guardas un dato.
-Cada vez que necesites ese dato, usas el nombre de la caja.
+Cada vez que necesites ese dato, usa el nombre de la caja.
 
 **En Java se escribe así:**
 
