@@ -27,7 +27,7 @@ Este curso de **~60 minutos** introduce a estudiantes de secundaria a la **progr
 | **Curso** | 1ASI0729 · Desarrollo de Aplicaciones Open Source |
 | **NRC** | 2610 |
 
-**📂 Repositorio de código fuente**: [https://github.com/1ASI0729-2610-20262-TBL-InfraTrackIot/java-fundamentals-course-TechTitans.git](#)
+**📂 Repositorio de código fuente**: [Visita nuestro Repositorio](https://github.com/1ASI0729-2610-20262-TBL-InfraTrackIot/java-fundamentals-course-TechTitans.git)
 
 ---
 
@@ -123,8 +123,8 @@ Este curso de **~60 minutos** introduce a estudiantes de secundaria a la **progr
 | 6 | Clases y Objetos | [Abrir](#) |
 | 7 | Mini proyecto final | [Abrir](#) |
 
-- 📝 **Cuestionario final**: [Pon a prueba tus conocimientos](#)
-- 🐙 **Código fuente completo**: [Repositorio GitHub](#)
+
+- 🐙 **Código fuente completo**: [Repositorio GitHub](https://github.com/1ASI0729-2610-20262-TBL-InfraTrackIot/java-fundamentals-course-TechTitans.git)
 - 🔖 **Comparte en redes**: `#JavaBeginners` `#OpenSource`
 
 ---
