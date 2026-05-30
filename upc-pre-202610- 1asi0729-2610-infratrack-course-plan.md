@@ -115,8 +115,8 @@ Este curso de **~60 minutos** introduce a estudiantes de secundaria a la **progr
 
 | Lección | Actividad | Ejercicio |
 |---------|-----------|-----------|
-| 1 | ¿Qué es programar? | — |
-| 2 | Variables y tipos de datos | [Abrir](#) |
+| 1 | ¿Qué es programar? | [Abrir](https://www.jdoodle.com/ia/1TPG) |
+| 2 | Variables y tipos de datos | [Abrir](https://www.jdoodle.com/ia/1TPH) |
 | 3 | Condiciones `if`/`else` | [Abrir](#) |
 | 4 | Bucles `for` y `while` | [Abrir](#) |
 | 5 | Métodos y parámetros | [Abrir](#) |
