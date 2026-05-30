@@ -41,6 +41,7 @@ Este curso de **~60 minutos** introduce a estudiantes de secundaria a la **progr
   - Un programa es una lista de instrucciones que la computadora sigue paso a paso.
   - Java es uno de los lenguajes más usados en el mundo: apps, videojuegos, sistemas bancarios.
 - **Práctica**: [Abrir ejercicio](https://www.jdoodle.com/ia/1TPG)
+- **PPT**: [Abrir Material](https://docs.google.com/presentation/d/1My11nuCFX1wcszG56Wd2mZ-6IhIvkE04/edit?slide=id.p1#slide=id.p1)
 ---
 
 ### Lección 2 · Variables: guardar información `~8 min`
