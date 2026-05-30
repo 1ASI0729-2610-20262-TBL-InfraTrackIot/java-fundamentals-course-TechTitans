@@ -46,11 +46,12 @@ Este curso de **~60 minutos** introduce a estudiantes de secundaria a la **progr
 ### Lección 2 · Variables: guardar información `~8 min`
 
 - **Descripción**: Qué es una variable, los tipos básicos y ejemplos del mundo real.
-- **Enlace**: [Ver la lección](#)
+- **Enlace**: [Ver la lección](https://youtu.be/GNtKdOIPOLY)
 - **Consejos clave**:
   - Usa `int` para números enteros, `double` para decimales, `String` para texto.
   - Piensa en una variable como una caja con nombre donde guardas un dato.
-- **Práctica**: [Abrir ejercicio](#)
+- **Práctica**: [Abrir ejercicio](https://www.jdoodle.com/ia/1TPH)
+- **PPT**: [Abrir Material](https://docs.google.com/presentation/d/1eN_2a8nfjj3Mja3XfEGcqOeBqvwh7K4h/edit?usp=sharing&ouid=113168325211246670998&rtpof=true&sd=true)
 
 ---
 
