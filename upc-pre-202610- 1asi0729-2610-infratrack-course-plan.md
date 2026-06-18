@@ -85,7 +85,7 @@ Este curso de **~60 minutos** introduce a estudiantes de secundaria a la **progr
 - **Consejos clave**:
   - Un método es un bloque de código con nombre que puedes llamar cuantas veces quieras.
   - Los parámetros son los datos que le pasas al método para que trabaje con ellos.
-- **Práctica**: [Abrir ejercicio](#)
+- **Práctica**: [Abrir ejercicio](https://www.jdoodle.com/ia/1UbX)
 
 ---
 
