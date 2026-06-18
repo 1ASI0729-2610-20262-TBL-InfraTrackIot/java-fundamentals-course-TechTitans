@@ -132,7 +132,7 @@ Este curso de **~60 minutos** introduce a estudiantes de secundaria a la **progr
 ## 👥 Elaboración
 
 **Universidad Peruana de Ciencias Aplicadas**
-Carrera de Ingeniería de Software · Período **202620**
+Carrera de Ingeniería de Software · Período **202610**
 Curso: **1ASI0729 · Desarrollo de Aplicaciones Open Source** · NRC: 2610
 
 #### Nombre del equipo: TechTitans
@@ -141,7 +141,7 @@ Curso: **1ASI0729 · Desarrollo de Aplicaciones Open Source** · NRC: 2610
 
 | Avatar | Nombre | Rol |
 |--------|--------|-----|
-| 👑 | David Alejandro Calixto Iriarte | Líder del equipo |
+| 👑 | Dhilsen Armil Mallqui Vilca | Líder del equipo |
 
 #### Integrantes
 
@@ -150,7 +150,6 @@ Curso: **1ASI0729 · Desarrollo de Aplicaciones Open Source** · NRC: 2610
 | Dhilsen Armil Mallqui Vilca |
 | Jefferson Bayron Morales Yapuchura |
 | Aldair Joaquin Ramos Aguirre |
-| Manuel *(apellido pendiente)* |
 
 ---
 
