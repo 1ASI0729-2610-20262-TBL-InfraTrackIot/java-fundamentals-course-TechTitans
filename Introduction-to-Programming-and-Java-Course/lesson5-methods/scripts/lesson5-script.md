@@ -60,4 +60,4 @@ Para esta lección, utilizaremos los archivos del repositorio para resolver los 
 
 * `starter-files/Methods.java` : Completa las líneas marcadas con `___` para construir un método que sume dos números.
 * `completed-examples/MethodsCompleted.java` : Código de verificación para comprobar que tus métodos funcionan de manera óptima.
-* **Enlace para practicar:** [Abrir en JDoodle](#)
+* **Enlace para practicar:** [Abrir en JDoodle](https://www.jdoodle.com/ia/1UbX)
