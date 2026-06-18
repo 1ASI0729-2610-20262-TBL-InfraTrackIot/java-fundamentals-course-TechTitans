@@ -55,5 +55,6 @@ Usamos `if` para hacer preguntas y `else` para indicar qué pasa cuando la condi
 
 Con esto ya podemos crear programas que reaccionan de forma diferente según los datos que reciben.
 
+Link del video : https://youtu.be/hYHyvJz73GI?si=aI6B6Ah7btAQlNIm
 
 Link de los ejemplos: https://onlinegdb.com/1qDdGMzBHA
