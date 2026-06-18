@@ -81,7 +81,7 @@ Este curso de **~60 minutos** introduce a estudiantes de secundaria a la **progr
 ### Lección 5 · Métodos: el código reutilizable `~8 min`
 
 - **Descripción**: Qué es un método, cómo usar parámetros y por qué evitan repetir código.
-- **Enlace**: [Ver la lección](#)
+- **Enlace**: [Ver la lección](https://youtu.be/DGM7AfEQ484)
 - **Consejos clave**:
   - Un método es un bloque de código con nombre que puedes llamar cuantas veces quieras.
   - Los parámetros son los datos que le pasas al método para que trabaje con ellos.
