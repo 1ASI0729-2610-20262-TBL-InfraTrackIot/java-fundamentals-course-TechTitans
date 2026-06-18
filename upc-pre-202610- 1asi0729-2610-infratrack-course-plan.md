@@ -92,11 +92,11 @@ Este curso de **~60 minutos** introduce a estudiantes de secundaria a la **progr
 ### Lección 6 · Clases y Objetos: el mundo real en código `~12 min`
 
 - **Descripción**: Qué es una clase, cómo crear un objeto y cómo Java modela cosas reales.
-- **Enlace**: [Ver la lección](#)
+- **Enlace**: [Ver la lección](https://youtu.be/lucUYCRwro0)
 - **Consejos clave**:
   - Una clase es el "molde" y un objeto es el "producto" creado con ese molde.
   - Ejemplo: clase `Estudiante` con atributos `nombre` y `nota`.
-- **Práctica**: [Abrir ejercicio](#)
+- **Práctica**: [Abrir ejercicio](https://www.jdoodle.com/ia/1Uc3)
 
 ---
 
@@ -107,7 +107,7 @@ Este curso de **~60 minutos** introduce a estudiantes de secundaria a la **progr
 - **Consejos clave**:
   - Revisa siempre los mensajes de error: Java te dice exactamente qué falló y en qué línea.
   - El siguiente paso natural es aprender herencia, colecciones y excepciones.
-- **Proyecto final**: [Abrir proyecto](#)
+- **Proyecto final**: [Abrir proyecto]()
 
 ---
 
