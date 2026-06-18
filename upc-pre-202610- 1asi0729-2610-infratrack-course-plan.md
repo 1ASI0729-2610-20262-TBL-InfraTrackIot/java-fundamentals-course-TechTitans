@@ -103,11 +103,11 @@ Este curso de **~60 minutos** introduce a estudiantes de secundaria a la **progr
 ### Lección 7 · Mini proyecto final + consejos `~10 min`
 
 - **Descripción**: Juntar todo en una mini app, repasar errores comunes y ver qué aprender después.
-- **Enlace**: [Ver la lección](#)
+- **Enlace**: [Ver la lección](https://www.jdoodle.com/ia/1Uc7)
 - **Consejos clave**:
   - Revisa siempre los mensajes de error: Java te dice exactamente qué falló y en qué línea.
   - El siguiente paso natural es aprender herencia, colecciones y excepciones.
-- **Proyecto final**: [Abrir proyecto]()
+- **Proyecto final**: [Abrir proyecto](https://youtu.be/CURVJ1_zmjE)
 
 ---
 
