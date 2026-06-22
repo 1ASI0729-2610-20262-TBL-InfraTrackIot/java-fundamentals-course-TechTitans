@@ -36,21 +36,22 @@ Este curso de **~60 minutos** introduce a estudiantes de secundaria a la **progr
 ### Lección 1 · ¿Qué es programar y qué es Java? `~5 min`
 
 - **Descripción**: Qué es un programa, para qué sirve Java y tu primer `Hola Mundo`.
-- **Enlace**: [Ver la lección](#)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=hYHyvJz73GI)
 - **Consejos clave**:
   - Un programa es una lista de instrucciones que la computadora sigue paso a paso.
   - Java es uno de los lenguajes más usados en el mundo: apps, videojuegos, sistemas bancarios.
+  - **Práctica**: [Abrir ejercicio](https://www.onlinegdb.com/LrbJn8Fgn)
 
 ---
 
 ### Lección 2 · Variables: guardar información `~8 min`
 
 - **Descripción**: Qué es una variable, los tipos básicos y ejemplos del mundo real.
-- **Enlace**: [Ver la lección](#)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=AO5Rb4df2NI)
 - **Consejos clave**:
   - Usa `int` para números enteros, `double` para decimales, `String` para texto.
   - Piensa en una variable como una caja con nombre donde guardas un dato.
-- **Práctica**: [Abrir ejercicio](#)
+- **Práctica**: [Abrir ejercicio](https://www.onlinegdb.com/LrbJn8Fgn)
 
 ---
 
