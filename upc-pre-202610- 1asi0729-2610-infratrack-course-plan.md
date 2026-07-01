@@ -27,7 +27,7 @@ Este curso de **~60 minutos** introduce a estudiantes de secundaria a la **progr
 | **Curso** | 1ASI0729 · Desarrollo de Aplicaciones Open Source |
 | **NRC** | 2610 |
 
-**📂 Repositorio de código fuente**: [https://github.com/1ASI0729-2610-20262-TBL-InfraTrackIot/java-fundamentals-course-TechTitans.git]
+**📂 Repositorio de código fuente**: [https://github.com/1ASI0729-2610-20262-TBL-InfraTrackIot/java-fundamentals-course-TechTitans.git](https://shorturl.at/5pZF2)
 
 ---
 
@@ -59,22 +59,22 @@ Este curso de **~60 minutos** introduce a estudiantes de secundaria a la **progr
 ### Lección 3 · Tomar decisiones en el código `~8 min`
 
 - **Descripción**: `if`, `else` y condiciones simples para que tu programa elija qué hacer.
-- **Enlace**: [[Ver la lección](https://youtu.be/hYHyvJz73GI?si=3ysqRR3fetIDII2_)]
+- **Enlace**: [Ver la lección](https://youtu.be/hYHyvJz73GI?si=3ysqRR3fetIDII2_)
 - **Consejos clave**:
   - `if (edad >= 18)` → "si la edad es mayor o igual a 18, haz esto".
   - Siempre cierra tus bloques con `}`.
-- **Práctica**: [[Abrir ejercicio](https://onlinegdb.com/LrbJn8Fgn)]
+- **Práctica**: [Abrir ejercicio](https://onlinegdb.com/LrbJn8Fgn)
 
 ---
 
 ### Lección 4 · Repetir cosas: los bucles `~8 min`
 
 - **Descripción**: `for` y `while` para no repetir código a mano.
-- **Enlace**: [[Ver la lección](https://youtu.be/AO5Rb4df2NI?si=hbi5Uh37specr_fi)]
+- **Enlace**:[Ver la lección](https://youtu.be/AO5Rb4df2NI?si=hbi5Uh37specr_fi
 - **Consejos clave**:
   - `for` cuando sabes cuántas veces repetir. `while` cuando no sabes.
   - Cuidado con los bucles infinitos: asegúrate de que la condición cambie.
-- **Práctica**: [[Abrir ejercicio](https://onlinegdb.com/LrbJn8Fgn)]
+- **Práctica**: [Abrir ejercicio](https://onlinegdb.com/LrbJn8Fgn)
 
 ---
 
