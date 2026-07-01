@@ -141,7 +141,7 @@ Curso: **1ASI0729 · Desarrollo de Aplicaciones Open Source** · NRC: 2610
 
 | Avatar | Nombre | Rol |
 |--------|--------|-----|
-| 👑 | Dhilsen Armil Mallqui Vilca | Líder del equipo |
+| 👑 | Aldair Joaquin Ramos Aguirre | Líder del equipo |
 
 #### Integrantes
 
